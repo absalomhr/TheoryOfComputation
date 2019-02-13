@@ -2,7 +2,7 @@ This programs were implemented as excersises in the class Computational Theory.
 
 To execute them you can run GENERAL.py, from there everything is on a menu.
 The results of all the computations made by the programms are stored in files.
-These programs were suggested by Dr. Genaro Juarez Martinez.
+These programs were suggested by Dr. Genaro Juarez Martínez.
 
 Here I give a brief explanation of what each programm does:
 
